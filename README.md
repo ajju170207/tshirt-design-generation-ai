@@ -233,9 +233,6 @@ Output folders and filenames are configured within each notebook.
 - Develop an interface for uploading reference images and reviewing generated results.
 - Standardize dependencies and configuration across notebooks.
 
-## License
-
-A license can be added once the terms for using, modifying, and distributing the code have been selected.
 
 ---
 
