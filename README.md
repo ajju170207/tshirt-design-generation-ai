@@ -20,7 +20,7 @@ The project includes implementations ranging from a custom CNN and associative m
 ## Repository Structure
 
 ```text
-FashionMind-AI/
+FashionGeneration-AI/
 ├── ann_model.ipynb
 ├── baseline_model.ipynb
 ├── notebook.ipynb
