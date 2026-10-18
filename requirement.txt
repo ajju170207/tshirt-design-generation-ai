@@ -1,0 +1,14 @@
+
+numpy
+pandas
+matplotlib
+Pillow
+opencv-python
+torch
+torchvision
+rembg
+onnxruntime
+diffusers
+transformers
+accelerate
+safetensors

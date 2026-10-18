@@ -1,0 +1,11 @@
+image_index,set_id,view,path
+0,1,front,tshirt_dataset\selected\set_1\front.jpg
+1,1,back,tshirt_dataset\selected\set_1\back.jpg
+2,2,front,tshirt_dataset\selected\set_2\front.jpg
+3,2,back,tshirt_dataset\selected\set_2\back.jpg
+4,3,front,tshirt_dataset\selected\set_3\front.jpg
+5,3,back,tshirt_dataset\selected\set_3\back.jpg
+6,4,front,tshirt_dataset\selected\set_4\front.jpg
+7,4,back,tshirt_dataset\selected\set_4\back.jpg
+8,5,front,tshirt_dataset\selected\set_5\front.jpg
+9,5,back,tshirt_dataset\selected\set_5\back.jpg

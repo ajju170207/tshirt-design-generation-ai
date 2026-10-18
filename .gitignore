@@ -1,0 +1,43 @@
+
+# Python environments
+venv/
+env/
+gpu_env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local datasets
+tshirt_dataset/
+dataset/
+data/
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+*.keras
+*.h5
+
+# Generated results (uncomment if you do not want to upload them)
+# generated_from_scratch/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+kaggle.json
+access_token
+credentials.json
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
